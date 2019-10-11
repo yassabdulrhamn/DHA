@@ -1,0 +1,447 @@
+
+/* Class = "UILabel"; text = "127.0"; ObjectID = "040-DP-H8O"; */
+"040-DP-H8O.text" = "127.0";
+
+/* Class = "UITextField"; placeholder = "Starts with 966.."; ObjectID = "2Hq-gU-lod"; */
+"2Hq-gU-lod.placeholder" = "يبدأ بـ 966";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2hH-3g-wpn"; */
+"2hH-3g-wpn.text" = "Label";
+
+/* Class = "UILabel"; text = "wight:"; ObjectID = "2ht-Xd-LXH"; */
+"2ht-Xd-LXH.text" = "الوزن:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "33F-Ne-pgp"; */
+"33F-Ne-pgp.text" = "البريد الألكتروني:";
+
+/* Class = "UILabel"; text = "180 cm"; ObjectID = "36l-kZ-2XT"; */
+"36l-kZ-2XT.text" = "180 cm";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "3ht-ho-656"; */
+"3ht-ho-656.text" = "الجوال:";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "3lB-xl-DVk"; */
+"3lB-xl-DVk.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4AS-aR-W1p"; */
+"4AS-aR-W1p.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "4hw-P1-t6k"; */
+"4hw-P1-t6k.placeholder" = "الأسم كامل";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "569-cO-BuB"; */
+"569-cO-BuB.placeholder" = "الرمز السري";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "56b-ly-6nj"; */
+"56b-ly-6nj.placeholder" = "البريد الألكتروني";
+
+/* Class = "UIButton"; normalTitle = "< Back"; ObjectID = "5AK-ZA-4Xy"; */
+"5AK-ZA-4Xy.normalTitle" = "< خلف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5bR-Uf-u1K"; */
+"5bR-Uf-u1K.text" = "Label";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "5oi-Gs-tIk"; */
+"5oi-Gs-tIk.text" = "الوزن";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "7Cc-Qi-BoI"; */
+"7Cc-Qi-BoI.text" = "000";
+
+/* Class = "UILabel"; text = "Select your dates"; ObjectID = "8su-KP-eIV"; */
+"8su-KP-eIV.text" = "أختر التاريخ";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "99S-3d-KvN"; */
+"99S-3d-KvN.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "Medical History:"; ObjectID = "9R6-8O-WTc"; */
+"9R6-8O-WTc.text" = "السجل الطبي";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "9dt-g0-wmT"; */
+"9dt-g0-wmT.text" = "الجنس:";
+
+/* Class = "UILabel"; text = "Sign up"; ObjectID = "9g6-U1-tIR"; */
+"9g6-U1-tIR.text" = "تسجيل";
+
+/* Class = "UILabel"; text = "Note: it is very important to verify the mobile number since it will be your ID every time you try to login "; ObjectID = "Bpj-uY-xUM"; */
+"Bpj-uY-xUM.text" = "Note: it is very important to verify the mobile number since it will be your ID every time you try to login ";
+
+/* Class = "UILabel"; text = "Update Profile"; ObjectID = "C1b-eG-Vjc"; */
+"C1b-eG-Vjc.text" = "تحديث الملف الشخصي";
+
+/* Class = "UILabel"; text = "wight:"; ObjectID = "Cmz-th-bam"; */
+"Cmz-th-bam.text" = "الوزن:";
+
+/* Class = "UILabel"; text = "Days Left"; ObjectID = "D2h-ix-s5I"; */
+"D2h-ix-s5I.text" = "الأيام المتبقية";
+
+/* Class = "UITabBarItem"; title = "Chart"; ObjectID = "DTz-JH-Yzi"; */
+"DTz-JH-Yzi.title" = "المؤشرات";
+
+/* Class = "UILabel"; text = "20/08/2018"; ObjectID = "E90-pp-Fsz"; */
+"E90-pp-Fsz.text" = "20/08/2018";
+
+/* Class = "UILabel"; text = "Today's:"; ObjectID = "ENh-dd-KK0"; */
+"ENh-dd-KK0.text" = "اليوم:";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Ehc-Tu-Qb7"; */
+"Ehc-Tu-Qb7.title" = "الرئيسية";
+
+/* Class = "UILabel"; text = "."; ObjectID = "FY0-sM-g2W"; */
+"FY0-sM-g2W.text" = ".";
+
+/* Class = "UILabel"; text = "Blood pressure:"; ObjectID = "FyR-Je-UFB"; */
+"FyR-Je-UFB.text" = "ضغط الدم:";
+
+/* Class = "UILabel"; text = "Medical History:"; ObjectID = "Fya-zd-52M"; */
+"Fya-zd-52M.text" = "السجل الطبي:";
+
+/* Class = "UILabel"; text = "Height (.cm)"; ObjectID = "G3x-He-28A"; */
+"G3x-He-28A.text" = "الطول (.cm)";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "GFN-z5-oWd"; */
+"GFN-z5-oWd.normalTitle" = "تحديث";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "GGh-XU-Xnx"; */
+"GGh-XU-Xnx.text" = "xxxxxx xxxxxx";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "GUJ-2u-Dc7"; */
+"GUJ-2u-Dc7.text" = "الجوال";
+
+/* Class = "UILabel"; text = "Reply:"; ObjectID = "GV3-U7-gjn"; */
+"GV3-U7-gjn.text" = "الرد:";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "Hm5-pI-GTo"; */
+"Hm5-pI-GTo.title" = "الاشعارات";
+
+/* Class = "UILabel"; text = "Name surname"; ObjectID = "HnX-fj-PZI"; */
+"HnX-fj-PZI.text" = "Name surname";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "Hpk-Sg-Wag"; */
+"Hpk-Sg-Wag.text" = "الجنس:";
+
+/* Class = "UIButton"; accessibilityLabel = "Login"; ObjectID = "ILv-D6-Ng9"; */
+"ILv-D6-Ng9.accessibilityLabel" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ILv-D6-Ng9"; */
+"ILv-D6-Ng9.normalTitle" = "تسجيل دخول";
+
+/* Class = "UILabel"; text = "Add new nurse"; ObjectID = "ISS-X0-BF0"; */
+"ISS-X0-BF0.text" = "إضافة ممرضة";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "JXF-Ie-hbf"; */
+"JXF-Ie-hbf.placeholder" = "البريد الألكتروني";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "M53-Dc-7hH"; */
+"M53-Dc-7hH.text" = "0";
+
+/* Class = "UILabel"; text = "purchasing date:"; ObjectID = "Mfx-S2-Tgt"; */
+"Mfx-S2-Tgt.text" = "تاريخ الشراء";
+
+/* Class = "UIButton"; accessibilityLabel = "Login"; ObjectID = "NBO-3L-HG6"; */
+"NBO-3L-HG6.accessibilityLabel" = "تسجيل دخول";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "NBO-3L-HG6"; */
+"NBO-3L-HG6.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "Blood Pressure"; ObjectID = "NKd-X5-Qwf"; */
+"NKd-X5-Qwf.text" = "ضغط الدم";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "OSn-7a-9Kp"; */
+"OSn-7a-9Kp.placeholder" = "الرمز السري";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "Otw-xU-bjS"; */
+"Otw-xU-bjS.text" = "/";
+
+/* Class = "UILabel"; text = "100 kg"; ObjectID = "PcI-19-xSH"; */
+"PcI-19-xSH.text" = "100 kg";
+
+/* Class = "UITabBarItem"; title = "Check up"; ObjectID = "QDM-BH-29U"; */
+"QDM-BH-29U.title" = "المراجعات";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "QYc-61-tZ7"; */
+"QYc-61-tZ7.placeholder" = "الأسم كامل";
+
+/* Class = "UILabel"; text = "127.0"; ObjectID = "R1t-Dk-v0X"; */
+"R1t-Dk-v0X.text" = "127.0";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "RPu-u0-ZfP"; */
+"RPu-u0-ZfP.text" = "الجنس";
+
+/* Class = "UILabel"; text = "DHA Keep tracking\n©Nawaf"; ObjectID = "RXe-h8-Oy0"; */
+"RXe-h8-Oy0.text" = "DHA Keep tracking\n©Nawaf";
+
+/* Class = "UILabel"; text = "No reply yet."; ObjectID = "RZF-92-kTg"; */
+"RZF-92-kTg.text" = "لا يوجد رد";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RjW-Ch-3gm"; */
+"RjW-Ch-3gm.text" = "Label";
+
+/* Class = "UILabel"; text = "127.0"; ObjectID = "RmF-1a-Q5m"; */
+"RmF-1a-Q5m.text" = "127.0";
+
+/* Class = "UITextField"; placeholder = "Medical History"; ObjectID = "SWk-nz-Dlb"; */
+"SWk-nz-Dlb.placeholder" = "السجل الطبي";
+
+/* Class = "UITabBarItem"; title = "Patients"; ObjectID = "ScT-aM-sqx"; */
+"ScT-aM-sqx.title" = "المرضى";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "SkC-k9-Sfy"; */
+"SkC-k9-Sfy.text" = "الجوال:";
+
+/* Class = "UILabel"; text = "."; ObjectID = "TOz-WT-UIM"; */
+"TOz-WT-UIM.text" = ".";
+
+/* Class = "UILabel"; text = "Days left"; ObjectID = "Tgb-k1-Z41"; */
+"Tgb-k1-Z41.text" = "الأيام المتبقية";
+
+/* Class = "UILabel"; text = "Hight:"; ObjectID = "Tjp-eQ-MYX"; */
+"Tjp-eQ-MYX.text" = "الطول";
+
+/* Class = "UITextField"; placeholder = "Weight (.kg)"; ObjectID = "TtG-v3-hmO"; */
+"TtG-v3-hmO.placeholder" = "الوزن (.kg)";
+
+/* Class = "UITabBarItem"; title = "item"; ObjectID = "UYL-A9-eJL"; */
+"UYL-A9-eJL.title" = "عنصر";
+
+/* Class = "UILabel"; text = "Blood Sugar:"; ObjectID = "Usi-ha-d7I"; */
+"Usi-ha-d7I.text" = "سكر الدم:";
+
+/* Class = "UILabel"; text = "."; ObjectID = "UuI-Eo-Vlx"; */
+"UuI-Eo-Vlx.text" = ".";
+
+/* Class = "UILabel"; text = "."; ObjectID = "W7A-g1-TA4"; */
+"W7A-g1-TA4.text" = ".";
+
+/* Class = "UILabel"; text = "Weight (.kg)"; ObjectID = "WKk-92-c8F"; */
+"WKk-92-c8F.text" = "الوزن (.kg)";
+
+/* Class = "UILabel"; text = "Blood\npressure"; ObjectID = "WoJ-Ab-7oN"; */
+"WoJ-Ab-7oN.text" = "الدم\nضغط";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Www-yv-els"; */
+"Www-yv-els.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Height (.cm)"; ObjectID = "XAh-z9-QMC"; */
+"XAh-z9-QMC.placeholder" = "الطول (.cm)";
+
+/* Class = "UILabel"; text = "____________________________________"; ObjectID = "Xcy-Bb-Yti"; */
+"Xcy-Bb-Yti.text" = "____________________________________";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "XfH-Vr-FzH"; */
+"XfH-Vr-FzH.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Date of birth:"; ObjectID = "Xu5-RM-yzH"; */
+"Xu5-RM-yzH.text" = "تاريخ الميلاد:";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Xys-H2-015"; */
+"Xys-H2-015.title" = "عنصر";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "Y5h-11-xZ1"; */
+"Y5h-11-xZ1.text" = "الرئيسية";
+
+/* Class = "UILabel"; text = "Blood sugar:"; ObjectID = "ZAc-KO-rLg"; */
+"ZAc-KO-rLg.text" = "سكر الدم:";
+
+/* Class = "UILabel"; text = "Height "; ObjectID = "Zit-Z1-LDB"; */
+"Zit-Z1-LDB.text" = "الطول ";
+
+/* Class = "UILabel"; text = "DHA"; ObjectID = "aec-FM-RRI"; */
+"aec-FM-RRI.text" = "DHA";
+
+/* Class = "UILabel"; text = "100 kg"; ObjectID = "bDt-KF-Sr3"; */
+"bDt-KF-Sr3.text" = "100 kg";
+
+/* Class = "UILabel"; text = "Blood Sugar"; ObjectID = "bQb-Cu-9uO"; */
+"bQb-Cu-9uO.text" = "سكر الدم";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "cMk-CS-Sw5"; */
+"cMk-CS-Sw5.normalTitle" = "تحديث";
+
+/* Class = "UILabel"; text = "for purchasing"; ObjectID = "chO-NV-RLa"; */
+"chO-NV-RLa.text" = "لشراء";
+
+/* Class = "UITextField"; accessibilityHint = "password"; ObjectID = "cj5-3O-VEg"; */
+"cj5-3O-VEg.accessibilityHint" = "الرمز السري";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "cj5-3O-VEg"; */
+"cj5-3O-VEg.placeholder" = "الرمز السري";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "d2k-3I-S23"; */
+"d2k-3I-S23.normalTitle" = "حقظ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dGb-I2-28U"; */
+"dGb-I2-28U.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "dYA-PZ-hUN"; */
+"dYA-PZ-hUN.title" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "."; ObjectID = "eI5-XP-kds"; */
+"eI5-XP-kds.text" = ".";
+
+/* Class = "UILabel"; text = "Diabetes & Hypertension app"; ObjectID = "eMf-oR-EyD"; */
+"eMf-oR-EyD.text" = "Diabetes & Hypertension app";
+
+/* Class = "UIButton"; normalTitle = "< Back"; ObjectID = "eRT-oX-1nu"; */
+"eRT-oX-1nu.normalTitle" = "< خلف";
+
+/* Class = "UILabel"; text = "Hight:"; ObjectID = "eTR-ZP-6bo"; */
+"eTR-ZP-6bo.text" = "الطول:";
+
+/* Class = "UITextField"; accessibilityHint = "email"; ObjectID = "emm-JZ-Xfy"; */
+"emm-JZ-Xfy.accessibilityHint" = "البريد الألكتروني";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "emm-JZ-Xfy"; */
+"emm-JZ-Xfy.placeholder" = "البريد الألكتروني";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "ewK-4I-Zz9"; */
+"ewK-4I-Zz9.normalTitle" = "تسجيل";
+
+/* Class = "UISegmentedControl"; f2f-58-hyQ.segmentTitles[0] = "Male"; ObjectID = "f2f-58-hyQ"; */
+"f2f-58-hyQ.segmentTitles[0]" = "ذكر";
+
+/* Class = "UISegmentedControl"; f2f-58-hyQ.segmentTitles[1] = "Female"; ObjectID = "f2f-58-hyQ"; */
+"f2f-58-hyQ.segmentTitles[1]" = "أنثى";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "fCh-eP-TYw"; */
+"fCh-eP-TYw.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "Height (.cm)"; ObjectID = "fn4-L8-zbd"; */
+"fn4-L8-zbd.placeholder" = "الطول (.cm)";
+
+/* Class = "UILabel"; text = "Admin"; ObjectID = "gHJ-Jc-rTD"; */
+"gHJ-Jc-rTD.text" = "Admin";
+
+/* Class = "UILabel"; text = "Replay:"; ObjectID = "gIF-Z7-JsM"; */
+"gIF-Z7-JsM.text" = "االرد:";
+
+/* Class = "UILabel"; text = "Contact info:"; ObjectID = "gJb-So-KHU"; */
+"gJb-So-KHU.text" = "معلومات التواصل:";
+
+/* Class = "UILabel"; text = "Blood\nsugar"; ObjectID = "h1g-kb-eQM"; */
+"h1g-kb-eQM.text" = "سكر الدم";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hIz-oc-GcF"; */
+"hIz-oc-GcF.text" = "العنوان";
+
+/* Class = "UISegmentedControl"; hdw-fg-xiO.segmentTitles[0] = "Male"; ObjectID = "hdw-fg-xiO"; */
+"hdw-fg-xiO.segmentTitles[0]" = "ذكر";
+
+/* Class = "UISegmentedControl"; hdw-fg-xiO.segmentTitles[1] = "Female"; ObjectID = "hdw-fg-xiO"; */
+"hdw-fg-xiO.segmentTitles[1]" = "أنثى";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "hp4-Bc-eKn"; */
+"hp4-Bc-eKn.text" = "xxxxxx xxxxxx";
+
+/* Class = "UIButton"; normalTitle = "Active"; ObjectID = "hr2-eE-lH0"; */
+"hr2-eE-lH0.normalTitle" = "تفعيل";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "iM3-5I-DZZ"; */
+"iM3-5I-DZZ.text" = "xxxxxx xxxxxx";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "ik5-1d-J5B"; */
+"ik5-1d-J5B.text" = "الجوال:";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "izE-NT-tiY"; */
+"izE-NT-tiY.text" = "الجوال:";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "jNZ-we-VHz"; */
+"jNZ-we-VHz.normalTitle" = "تسجيل";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "jSx-Rf-Xuc"; */
+"jSx-Rf-Xuc.title" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "Diseases:"; ObjectID = "kWX-A3-b71"; */
+"kWX-A3-b71.text" = "الالمرض:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kYd-vz-E80"; */
+"kYd-vz-E80.text" = "العنوان";
+
+/* Class = "UILabel"; text = "for visting"; ObjectID = "kq7-81-nVu"; */
+"kq7-81-nVu.text" = "لزيارة";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "m5g-8U-0hX"; */
+"m5g-8U-0hX.text" = "xxxxxx xxxxxx";
+
+/* Class = "UILabel"; text = "127.0"; ObjectID = "mE6-sa-9ig"; */
+"mE6-sa-9ig.text" = "127.0";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "mJi-HO-wCb"; */
+"mJi-HO-wCb.text" = "الاسم";
+
+/* Class = "UILabel"; text = "20/10/2019"; ObjectID = "mOg-Fy-uKp"; */
+"mOg-Fy-uKp.text" = "20/10/2019";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "mRO-dn-enh"; */
+"mRO-dn-enh.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "© Nawaf\nPowered by: CodersCouch"; ObjectID = "nZ8-Ki-pCu"; */
+"nZ8-Ki-pCu.text" = "© Nawaf\nPowered by: CodersCouch";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "oaE-Nb-GoN"; */
+"oaE-Nb-GoN.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "od4-vl-mTy"; */
+"od4-vl-mTy.normalTitle" = "إضافة";
+
+/* Class = "UITextField"; placeholder = "Weight (.kg)"; ObjectID = "p6H-8a-b4S"; */
+"p6H-8a-b4S.placeholder" = "الوزن (.kg)";
+
+/* Class = "UILabel"; text = "Date of birth:"; ObjectID = "qsc-wW-tLr"; */
+"qsc-wW-tLr.text" = "تاريخ الميلاد:";
+
+/* Class = "UILabel"; text = "Verify mobile number"; ObjectID = "rGO-lk-3Sc"; */
+"rGO-lk-3Sc.text" = "تأكيد رقم الجوال";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "rH9-F1-5MC"; */
+"rH9-F1-5MC.title" = "الأعدادات";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "rJo-z1-2sZ"; */
+"rJo-z1-2sZ.text" = "000";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "rf1-Rw-WtR"; */
+"rf1-Rw-WtR.text" = "xxxxxx xxxxxx";
+
+/* Class = "UILabel"; text = "Blood Pressure:"; ObjectID = "sdF-5h-1I8"; */
+"sdF-5h-1I8.text" = "ضغط الدم";
+
+/* Class = "UILabel"; text = "Update Profile"; ObjectID = "t9h-LM-TdU"; */
+"t9h-LM-TdU.text" = "تحذث الملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "ttz-tv-igG"; */
+"ttz-tv-igG.normalTitle" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "180 cm"; ObjectID = "upK-gy-T1P"; */
+"upK-gy-T1P.text" = "180 cm";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "vOw-2x-9zr"; */
+"vOw-2x-9zr.text" = "الأسم:";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "vPO-Ql-GPN"; */
+"vPO-Ql-GPN.placeholder" = "الأسم كامل";
+
+/* Class = "UITabBarItem"; title = "Add Nurse"; ObjectID = "wPP-uv-t0l"; */
+"wPP-uv-t0l.title" = "إضافة ممرضة";
+
+/* Class = "UILabel"; text = "visiting date:"; ObjectID = "xVu-5i-sZJ"; */
+"xVu-5i-sZJ.text" = "تاريخ الزيارة:";
+
+/* Class = "UILabel"; text = "Update Profile"; ObjectID = "yMh-IL-itE"; */
+"yMh-IL-itE.text" = "تحديث الملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "yTt-7Z-gSH"; */
+"yTt-7Z-gSH.normalTitle" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "You will be remindered "; ObjectID = "yX0-hH-mdS"; */
+"yX0-hH-mdS.text" = "سوف يتم تذكيرك";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "yd0-IF-i2F"; */
+"yd0-IF-i2F.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "yff-XI-8pS"; */
+"yff-XI-8pS.normalTitle" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "xxxxxx xxxxxx"; ObjectID = "z0G-Bp-HdS"; */
+"z0G-Bp-HdS.text" = "xxxxxx xxxxxx";
+
+/* Class = "UITextField"; placeholder = "Starts with 966.."; ObjectID = "ztW-ow-5nz"; */
+"ztW-ow-5nz.placeholder" = "يبدأ بـ 966";

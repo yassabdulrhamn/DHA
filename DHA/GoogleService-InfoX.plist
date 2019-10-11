@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>611362154358-koseq263rkdiltao8fg6ibv4se3pjghl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611362154358-koseq263rkdiltao8fg6ibv4se3pjghl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgcAPjMAFunwtqgvPc48rhefbn1Sjw-DY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611362154358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.coderscouch.DHA</string>
+	<key>PROJECT_ID</key>
+	<string>dha-database</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dha-database.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611362154358:ios:8274604d738acc1a</string>
+	<key>DATABASE_URL</key>
+	<string>https://dha-database.firebaseio.com</string>
+</dict>
+</plist>
